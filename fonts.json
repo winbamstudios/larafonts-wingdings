@@ -4,8 +4,23 @@
   "repo_icon": "https://github.com/winbamstudios.png",
   "fonts": [
     {
+      "name": "webdings",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/webdings_patched.ttf",
+      "format": "truetype"
+    },
+    {
       "name": "wingdings",
       "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/wingding_patched.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "wingdings 2",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/wingding2_patched.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "wingdings 3",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/wingding3_patched.ttf",
       "format": "truetype"
     }
   ],
